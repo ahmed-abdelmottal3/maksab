@@ -2,11 +2,11 @@ import { StyleSheet, Text } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 
-export default function HomeScreen() {
+export default function ProfileScreen() {
   return (
     <SafeAreaView>
       <Text>
-        Home
+        Profile
       </Text>
     </SafeAreaView>
   );
